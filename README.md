@@ -1,2 +1,3 @@
 # meu-primeiro-repo
-Meu primeiro repositório
+Olá pessoal, meu nome é Isamara.
+Tenho 20 anos e sou de Minas Gerais.
